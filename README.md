@@ -1,4 +1,4 @@
-# 🎯 Quiz Application – Internship Task 9
+# 🎯 Quiz Application – Internship Task 8
 
 A simple **Java console application** for conducting quizzes.  
 It allows defining questions, presenting them to the user, and calculating scores at the end.
